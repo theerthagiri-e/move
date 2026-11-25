@@ -2,7 +2,7 @@
 
 A free, single-file web app that reminds you every hour to move. It guides you through short desk stretches, a home strength circuit, bike or walk sessions, optional heel care, and a simple South Indian diet tracker.
 
-**Live demo:** https://YOUR-USERNAME.github.io/move/
+**Live demo:** https://theerthagiri-e.github.io/move/
 
 Built in one evening with [Claude](https://claude.ai) as a personal tool. Shared in case it helps you too.
 
